@@ -1,0 +1,9 @@
+
+print excution starts....
+
+def summing (num1, num2)
+	print(num1+num2)
+
+
+
+print excution ends....
